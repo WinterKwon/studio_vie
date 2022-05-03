@@ -74,6 +74,25 @@ main{
   clear:both;
 }
 
+/* slider  */
+#slider {
+  width: 100vw;
+  /* height: 720px; */
+  overflow: hidden;
+}
+
+#slider .slides {
+  display: block;
+  width: 25200px;
+  
+}
+
+#slider .slide {
+  float: left;
+  width: 100vw;
+
+}
+
 
 /* body > footer */
 body footer {
